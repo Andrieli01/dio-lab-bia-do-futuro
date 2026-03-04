@@ -10,7 +10,7 @@
 
 ## Adaptações nos Dados
 
-> Você modificou ou expandiu os dados mockados? Descreva aqui.
+
 O produto Fundo Imobiliário(FII) substituiu o Fundo Multimercado, pois pessoalmente me sinto mais confiante em usar apenas produtos financeiros que eu conehcço,assim poderei validar as respostas da Hope de forma mais assertiva.
 
 
