@@ -79,7 +79,3 @@ Mas ela não realiza transferências ou pagamentos.
 Não faz investimentos automáticos para o cliente.
 Não analisa perfil de risco detalhado.
 Não substitui um consultor financeiro humano.
-
-
-
-[Liste aqui as limitações explícitas do agente]
