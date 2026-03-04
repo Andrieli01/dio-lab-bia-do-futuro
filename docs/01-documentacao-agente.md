@@ -65,12 +65,19 @@ flowchart TD
 
 ### Estratégias Adotadas
 
-- [ ] [ex: Agente só responde com base nos dados fornecidos]
-- [ ] [ex: Respostas incluem fonte da informação]
-- [ ] [ex: Quando não sabe, admite e redireciona]
-- [ ] [ex: Não faz recomendações de investimento sem perfil do cliente]
+ Agente só responde com base em orientações de educação financeira básica.
+
+ Quando não sabe, admite a limitação e redireciona.
+
+ Não faz recomendações de investimento personalizadas.
+
+ Não promete ganhos financeiros.
 
 ### Limitações Declaradas
-> O que o agente NÃO faz?
+A Hope pode consultar saldo e informações básicas da conta.
+Mas ela não realiza transferências ou pagamentos.
+Não faz investimentos automáticos para o cliente.
+Não analisa perfil de risco detalhado.
+Não substitui um consultor financeiro humano.
 
 [Liste aqui as limitações explícitas do agente]
