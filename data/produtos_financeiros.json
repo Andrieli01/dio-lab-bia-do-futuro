@@ -27,7 +27,11 @@
     "nome": "Fundo Multimercado(FII)",
     "categoria": "fundo",
     "risco": "medio",
+<<<<<<< HEAD
     "rentabilidade": "Dividend Yeld(DY)costuma ficar entre 6% a 12% ao ano,
+=======
+    "rentabilidade": "Dividend Yeld(DY) costuma ficar entre 6% a 12% ao ano",
+>>>>>>> master
     "aporte_minimo": 100.00,
     "indicado_para": "Perfil moderado que busca diversificação e renda recorrente mensal"
   },
@@ -39,4 +43,8 @@
     "aporte_minimo": 100.00,
     "indicado_para": "Perfil arrojado com foco no longo prazo"
   }
+<<<<<<< HEAD
 ]
+=======
+]
+>>>>>>> master
