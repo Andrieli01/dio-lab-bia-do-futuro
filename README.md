@@ -58,15 +58,9 @@ streamlit run src/app.py
 
 ---
 
-## Documentação
+## Demonstração
 
-| Arquivo | Conteúdo |
-|---|---|
-| [`01-documentacao-agente.md`](./docs/01-documentacao-agente.md) | Persona, caso de uso e arquitetura |
-| [`02-base-conhecimento.md`](./docs/02-base-conhecimento.md) | Estratégia de dados |
-| [`03-prompts.md`](./docs/03-prompts.md) | System prompt e exemplos de interação |
-| [`04-metricas.md`](./docs/04-metricas.md) | Avaliação e métricas de qualidade |
-| [`05-pitch.md`](./docs/05-pitch.md) | Roteiro do pitch |
+Assista à demonstração: https://youtu.be/rXpHXSnHYvU
 
 ---
 
