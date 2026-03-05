@@ -1,33 +1,22 @@
 # Passo a Passo de Execução
+
 ## Setup do Ollama
-```bash
-#1.Instalar Ollama (ollama.com)
-#2.Baixar um modelo leve
-ollama run mistral
-#3.Testar se funciona
-ollama run mistral
 
-##Codigo completo
-Todo o código completo está no arquivo 'app.py',
+1. Instalar o Ollama: [https://ollama.com](https://ollama.com)  
+2. Baixar um modelo leve, por exemplo, o Mistral:  
+   ```bash
+   ollama run mistral
 
 
-'''
+Código completo
 
-##Como Rodar
-#1.Instalar dependencias
+Todo o código completo está no arquivo app.py.
+
+Como Rodar
+# 1. Instalar dependências
 pip install streamlit pandas requests
-#2.Garantir que o Ollama está rodando 
+# 2. Garantir que o Ollama está rodando
 ollama serve
-#3.Rodar o app
+# 3. Rodar o app
 streamlit run src/app.py
-
-
-
-## Exemplo de requirements.txt
-
-```
-streamlit
-openai
-python-dotenv
-```
 
